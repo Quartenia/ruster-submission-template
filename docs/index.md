@@ -5,7 +5,7 @@ description: A short desctiption of your submission
 ---
 
 # Title
-Name: xxx
+Name: xxx 
 BUas email: xxx@buas.nl
 
 ## Features

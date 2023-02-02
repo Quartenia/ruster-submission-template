@@ -11,6 +11,7 @@ BUas email: xxx@buas.nl
 
 ## Features
 > Provide a detailed list of the features implemented
+> Feel free to provide link to the code that implements te features. (in GitHub you can just click on a line of code and get the link to it)
 
 + feature 1
 + feature 2
